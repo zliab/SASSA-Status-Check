@@ -1,1 +1,3 @@
-# SASSA-Status-Check
+The [SASSA status check](https://ecaif.co.za) tool is a service provided by the South African government to support unemployed individuals who do not receive any other income, such as social grants or UIF payments. With an unemployment rate of 32.9% and over 55.5% of the population living in poverty, these grants are a critical lifeline for many.  
+
+They help families afford basic necessities like food, medical care, and housing, offering much-needed financial relief. By making this tool available, SASSA enables individuals to manage their financial planning more effectively and access the support they need securely.
